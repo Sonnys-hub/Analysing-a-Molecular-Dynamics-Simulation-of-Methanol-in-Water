@@ -1,0 +1,9 @@
+# --- Wolfram Project GitIgnore ---
+.Mathematica/
+.Wolfram/
+*~
+*.nb~
+
+# Ignore local system tracking files
+.DS_Store
+Thumbs.db
